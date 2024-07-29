@@ -1,0 +1,2 @@
+# BasketballSim
+Simulating basketball games
